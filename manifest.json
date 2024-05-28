@@ -1,0 +1,12 @@
+{
+  "short_name": "慧语简报",
+  "name": "慧语简报｜每日新闻早读",
+  "icon": [
+    {
+      "src": "icon.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ],
+  "display": "fullscreen"
+}
